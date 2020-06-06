@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Declan&#39;s Blog</title>
+  <icon>https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/bea775ably1g7jo1gheafj20f30f3t8n.jpg</icon>
+  <subtitle>Keep mindful living.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://lihaojin.cn/"/>
+  <updated>2020-06-05T15:33:29.859Z</updated>
+  <id>https://lihaojin.cn/</id>
+  
+  <author>
+    <name>Declan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TOEFL Writing Practice</title>
+    <link href="https://lihaojin.cn/06/05/2020/TOEFL-Writing-Practice/"/>
+    <id>https://lihaojin.cn/06/05/2020/TOEFL-Writing-Practice/</id>
+    <published>2020-06-05T15:31:54.000Z</published>
+    <updated>2020-06-05T15:33:29.859Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="English Learning" scheme="https://lihaojin.cn/categories/English-Learning/"/>
+    
+    
+      <category term="TOEFL" scheme="https://lihaojin.cn/tags/TOEFL/"/>
+    
+      <category term="learning" scheme="https://lihaojin.cn/tags/learning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Exercise Log</title>
+    <link href="https://lihaojin.cn/06/05/2020/Exercise-Log/"/>
+    <id>https://lihaojin.cn/06/05/2020/Exercise-Log/</id>
+    <published>2020-06-05T05:38:09.000Z</published>
+    <updated>2020-06-05T15:28:17.005Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="06-04-2020"><a href="#06-04-2020" class="headerlink" title="06/04/2020"></a>06/04/2020</h1><hr><p>This is the first day I start my exercise again. Hope I can insist on.<br><img src="https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/20200605232550.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          
+        
+      
+    
+    </summary>
+    
+    
+      <category term="This is life" scheme="https://lihaojin.cn/categories/This-is-life/"/>
+    
+    
+      <category term="exercise" scheme="https://lihaojin.cn/tags/exercise/"/>
+    
+      <category term="log" scheme="https://lihaojin.cn/tags/log/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VRC Change Up 2020-2021 Dev Log</title>
+    <link href="https://lihaojin.cn/05/31/2020/2020-05-31Change-Up-Season-VRC-Dev-Log/"/>
+    <id>https://lihaojin.cn/05/31/2020/2020-05-31Change-Up-Season-VRC-Dev-Log/</id>
+    <published>2020-05-31T15:20:07.000Z</published>
+    <updated>2020-06-05T06:07:04.000Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="05-31-20"><a href="#05-31-20" class="headerlink" title="05/31/20"></a>05/31/20</h1><hr><h2 id="Summary"><a href="#Summary" class="headerlink" title="Summary"></a>Summary</h2><p>Today we officially began our new season robotics development. To be honest, I have less time available this season due to my SAT and TOEFL exam and college application stuff. However, I want to insist on this activity which I’ve already participated since my middle school. My job will gravitate mainly on programming. </p><p>Plus, we move to a brand new activity room with double area and completely new equipment and match field. Hope I can achieve some accomplishments that I left as pities last season.</p><p>So sad that today I am alone in my team. They are all busy preparing AP makeup exams, although I also need to retake. </p><h2 id="Task-List"><a href="#Task-List" class="headerlink" title="Task List"></a>Task List</h2><ul><li><input checked="" disabled="" type="checkbox"> Get started and familiar with code formatting and competition template again.</li><li><input checked="" disabled="" type="checkbox"> Recode and design my code format and template.</li><li><input disabled="" type="checkbox"> Finish the entire base program with optimization</li></ul><a id="more"></a>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;05-31-20&quot;&gt;&lt;a href=&quot;#05-31-20&quot; class=&quot;headerlink&quot; title=&quot;05/31/20&quot;&gt;&lt;/a&gt;05/31/20&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&quot;Summary&quot;&gt;&lt;a href=&quot;#Summary&quot; class=&quot;headerlink&quot; title=&quot;Summary&quot;&gt;&lt;/a&gt;Summary&lt;/h2&gt;&lt;p&gt;Today we officially began our new season robotics development. To be honest, I have less time available this season due to my SAT and TOEFL exam and college application stuff. However, I want to insist on this activity which I’ve already participated since my middle school. My job will gravitate mainly on programming. &lt;/p&gt;
+&lt;p&gt;Plus, we move to a brand new activity room with double area and completely new equipment and match field. Hope I can achieve some accomplishments that I left as pities last season.&lt;/p&gt;
+&lt;p&gt;So sad that today I am alone in my team. They are all busy preparing AP makeup exams, although I also need to retake. &lt;/p&gt;
+&lt;h2 id=&quot;Task-List&quot;&gt;&lt;a href=&quot;#Task-List&quot; class=&quot;headerlink&quot; title=&quot;Task List&quot;&gt;&lt;/a&gt;Task List&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Get started and familiar with code formatting and competition template again.&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&quot;&quot; disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Recode and design my code format and template.&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; Finish the entire base program with optimization&lt;/li&gt;
+&lt;/ul&gt;
+    
+    </summary>
+    
+    
+      <category term="VEX Robotics" scheme="https://lihaojin.cn/categories/VEX-Robotics/"/>
+    
+    
+      <category term="VEX" scheme="https://lihaojin.cn/tags/VEX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>News Report</title>
+    <link href="https://lihaojin.cn/04/17/2020/News-Report/"/>
+    <id>https://lihaojin.cn/04/17/2020/News-Report/</id>
+    <published>2020-04-17T07:08:00.000Z</published>
+    <updated>2020-06-05T15:37:08.471Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Student-Based-Online-Community"><a href="#Student-Based-Online-Community" class="headerlink" title="Student Based Online Community"></a>Student Based Online Community</h1><h2 id="Background-Under-the-Epidemic"><a href="#Background-Under-the-Epidemic" class="headerlink" title="Background: Under the Epidemic"></a>Background: Under the Epidemic</h2><hr><blockquote><p>According to Wikipedia, 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease was first identified in December 2019 in Wuhan, the capital of China’s Hubei province, and has since spread globally, resulting in the ongoing 2019–20 coronavirus pandemic.</p></blockquote><a id="more"></a><h2 id="Intro"><a href="#Intro" class="headerlink" title="Intro"></a>Intro</h2><hr><p>GXYZ.online is an online campus community website built by Li Haojin, an international course class student, using the Flarum open source framework. The interface is beautiful and the functions are rich.</p><p>Declan used the vacation time to learn the basic knowledge about the server, combined with the Html5 &amp; CSS programming I learned before, and built the community by hands-on practice, aiming to provide an Internet platform for all high-tech heroes to speak freely, share life and make progress together. . “</p><h2 id="Quotes-from-the-Website-Founder-Declan"><a href="#Quotes-from-the-Website-Founder-Declan" class="headerlink" title="Quotes from the Website Founder Declan"></a>Quotes from the Website Founder Declan</h2><blockquote><p>He said: “I have always loved information technology-related fields, and I am also a loyal Microsoft fan. In addition to studying in the winter vacation, I self-taught the server construction and maintenance based on the Microsoft Azure cloud service for students free courses. During the learning process, I encountered many difficulties. When I searched the Internet to solve the problem, I often visited foreign open source communities such as Github, Stack Overflow, etc. I saw technical experts answer questions and share their own projects in the community, so I was inspired by this. “<br>     “I also want to use my knowledge to build a campus community on the basis of open source. This will not only exercise my ability to apply knowledge, but also provide a platform for students to communicate.”</p></blockquote><h2 id="Summary"><a href="#Summary" class="headerlink" title="Summary"></a>Summary</h2><p>The website is continuing developing and aiming to provide a free and teacher-free platform, we believe the website is especially useful in this tough time.</p><p>So what</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Student-Based-Online-Community&quot;&gt;&lt;a href=&quot;#Student-Based-Online-Community&quot; class=&quot;headerlink&quot; title=&quot;Student Based Online Community&quot;&gt;&lt;/a&gt;Student Based Online Community&lt;/h1&gt;&lt;h2 id=&quot;Background-Under-the-Epidemic&quot;&gt;&lt;a href=&quot;#Background-Under-the-Epidemic&quot; class=&quot;headerlink&quot; title=&quot;Background: Under the Epidemic&quot;&gt;&lt;/a&gt;Background: Under the Epidemic&lt;/h2&gt;&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;According to Wikipedia, 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The disease was first identified in December 2019 in Wuhan, the capital of China’s Hubei province, and has since spread globally, resulting in the ongoing 2019–20 coronavirus pandemic.&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="English Learning" scheme="https://lihaojin.cn/categories/English-Learning/"/>
+    
+    
+      <category term="news" scheme="https://lihaojin.cn/tags/news/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Update Log</title>
+    <link href="https://lihaojin.cn/04/16/2020/%F0%9F%92%8EUpdate-Review/"/>
+    <id>https://lihaojin.cn/04/16/2020/%F0%9F%92%8EUpdate-Review/</id>
+    <published>2020-04-15T16:10:00.000Z</published>
+    <updated>2020-06-04T16:49:38.492Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Subscription-via-Email"><a href="#Subscription-via-Email" class="headerlink" title="Subscription via Email"></a>Subscription via Email</h1><hr><p><img src="https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/20200417005009.png" alt=""></p><a id="more"></a><h1 id="New-Post-Share-Plugin"><a href="#New-Post-Share-Plugin" class="headerlink" title="New Post Share Plugin"></a>New Post Share Plugin</h1><hr><p><img src="https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/20200417005213.png" alt=""></p><h1 id="More-Entries-on-Navigation-Bar"><a href="#More-Entries-on-Navigation-Bar" class="headerlink" title="More Entries on Navigation Bar"></a>More Entries on Navigation Bar</h1><hr><p><img src="https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/20200417005246.png" alt=""></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Subscription-via-Email&quot;&gt;&lt;a href=&quot;#Subscription-via-Email&quot; class=&quot;headerlink&quot; title=&quot;Subscription via Email&quot;&gt;&lt;/a&gt;Subscription via Email&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/20200417005009.png&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Tech Tips" scheme="https://lihaojin.cn/categories/Tech-Tips/"/>
+    
+    
+      <category term="update" scheme="https://lihaojin.cn/tags/update/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Discover Berkeley</title>
+    <link href="https://lihaojin.cn/04/12/2020/Discover-Berkeley/"/>
+    <id>https://lihaojin.cn/04/12/2020/Discover-Berkeley/</id>
+    <published>2020-04-12T12:45:00.000Z</published>
+    <updated>2020-06-05T15:36:05.779Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Lead"><a href="#Lead" class="headerlink" title="Lead"></a>Lead</h1><hr><p>The second one in my <strong><em>Discover College Series…</em></strong></p><p>Berkeley, the college that is close to my dream in California.</p><p><em>Note: The following are some quotes and main point I referred from official website of Berkeley.</em></p><a id="more"></a><h1 id="Selection"><a href="#Selection" class="headerlink" title="Selection"></a>Selection</h1><hr><blockquote><p>Since Berkeley is a competitive campus, satisfying the minimum requirements is often not enough to be competitive for selection. In addition to the basic admission requirements, the campus selects its freshman class through an assessment that includes a holistic review of your academic performance as measured primarily by:</p><ul><li>Your weighted and unweighted UC grade point average (calculated using 10th and 11th grade UC-approved courses only)</li><li>Your planned 12th grade courses</li><li>Your pattern of grades over time</li><li>The number of college preparatory, Advanced Placement (AP), International Baccalaureate (IB), honors and transferable college courses you have completed</li><li>Your level of achievement in those courses relative to other UC applicants at your school</li><li>Your scores on AP or IB exams</li><li>Your scores on the <a href="http://admission.universityofcalifornia.edu/freshman/requirements/examination-requirement/index.html">ACT Assessment Plus Writing or the SAT Reasoning Test</a>.</li></ul></blockquote><h1 id="Holistic-Review"><a href="#Holistic-Review" class="headerlink" title="Holistic Review"></a>Holistic Review</h1><hr><blockquote><p>We review students using a Holistic Review process. This means that we not only look at academic factors, but also non-academic factors. Using a broad concept of merit, readers employ the following criteria which carry no pre-assigned weights:</p><ol><li>The applicant’s full record of achievement in college preparatory work in high school, including the number and rigor of courses taken and grades earned in those courses.</li><li>Personal qualities of the applicant, including leadership ability, character, motivation, insight, tenacity, initiative, originality, intellectual independence, responsibility, maturity, and demonstrated concern for others and for the community are considered.</li><li>Likely contributions to the intellectual and cultural vitality of the campus. In addition to a broad range of intellectual interests and achievements, admission readers seek diversity in personal background and experience.</li><li>Performance on standardized tests, the SAT Reasoning Test or ACT Assessment plus Writing Test. In addition, any Advanced Placement or IBHL examinations the applicant may have taken will be considered.</li><li>Achievement in academic enrichment programs, including but not limited to those sponsored by the University of California. This criterion is measured by time and depth of participation, by the academic progress made by the applicant during that participation, and by the intellectual rigor of the particular program.</li><li>Other evidence of achievement. This criterion recognizes exemplary, sustained achievement in any field of intellectual or creative endeavor; accomplishments in extracurricular activities such as the performing arts or athletics; leadership in school or community organizations; employment; and volunteer service.</li><li>Race, ethnicity, gender, and religion are excluded from the criteria.</li></ol><p>All achievements, both academic and nonacademic, are considered in the context of the opportunities an applicant has had, and the reader’s assessment is based on how fully the applicant has taken advantage of those opportunities. For an applicant who has faced any hardships or unusual circumstances, readers consider the maturity, determination and insight with which the applicant has responded to and/or overcome them. Readers also consider other contextual factors that bear directly upon the applicant’s achievement, including linguistic background, parental education level, and other indicators of support available in the home.</p><p>The review recognizes a wide range of talent and creativity that is not necessarily reflected in traditional measures of academic achievement but which, in the judgment of the reader, is a positive indicator of the student’s ability to succeed at Berkeley and beyond.</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Lead&quot;&gt;&lt;a href=&quot;#Lead&quot; class=&quot;headerlink&quot; title=&quot;Lead&quot;&gt;&lt;/a&gt;Lead&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;The second one in my &lt;strong&gt;&lt;em&gt;Discover College Series…&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Berkeley, the college that is close to my dream in California.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: The following are some quotes and main point I referred from official website of Berkeley.&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Dreaming Colleges" scheme="https://lihaojin.cn/categories/Dreaming-Colleges/"/>
+    
+    
+      <category term="college" scheme="https://lihaojin.cn/tags/college/"/>
+    
+      <category term="admission" scheme="https://lihaojin.cn/tags/admission/"/>
+    
+      <category term="website" scheme="https://lihaojin.cn/tags/website/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Explore Stanford Website</title>
+    <link href="https://lihaojin.cn/03/28/2020/Explore-Stanford-Website/"/>
+    <id>https://lihaojin.cn/03/28/2020/Explore-Stanford-Website/</id>
+    <published>2020-03-28T11:18:57.000Z</published>
+    <updated>2020-06-05T15:35:38.004Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Lead"><a href="#Lead" class="headerlink" title="Lead"></a>Lead</h1><hr><p>I think it’s time for me to begin my application. These days my mother is trying to find professional counselors who can be helpful in the course of my application. Also, I know the most important thing is myself. I need to be prepared first and make choice finally. So that’s the reason why I am doing this, looking for useful information from several college websites. Here is the first one, that many peers including I admire the most: Stanford University.</p><p><em>I will mark and reorganize some points mentioned in the intro which I think is useful.</em></p><a id="more"></a><p><img src="https://cdn.jsdelivr.net/gh/declan-haojin/blog-image@master/img/20200412193642.png" alt=""></p><h1 id="Holistic-Admission"><a href="#Holistic-Admission" class="headerlink" title="Holistic Admission"></a>Holistic Admission</h1><hr><blockquote><p>One piece tells us about your background and life experiences, another about your school and your academic achievement. We learn from others about your character and intellectual contributions. In your essays, we learn about your ideas and interests, and what is meaningful to you.</p><p>In a holistic review, we seek to understand how you, as a whole person, would grow, contribute, and thrive at Stanford, and how Stanford would, in turn, be changed by you.</p></blockquote><h2 id="Academic-Excellence"><a href="#Academic-Excellence" class="headerlink" title="Academic Excellence"></a>Academic Excellence</h2><blockquote><p>The most important credential for evaluating your academic record is your high school transcript.</p></blockquote><h2 id="Intellectual-Vitality"><a href="#Intellectual-Vitality" class="headerlink" title="Intellectual Vitality"></a>Intellectual Vitality</h2><blockquote><p>We want to see the kind of curiosity and enthusiasm that will allow you to spark a lively discussion in a freshman seminar and continue the conversation at a dinner table.</p></blockquote><ul><li>anything on Microsoft and other tech company, their product, services and strategy.</li><li>Technology that I can take advantage of and creating something real and helpful.<ul><li>Cloud which helps me build websites, spreading information and thinking.</li></ul></li></ul><blockquote><p>We want to see the initiative with which you seek out opportunities and expand your perspective.</p></blockquote><ul><li>Be the man with one-row light in the early morning every school day.</li></ul><h2 id="Extracurricular-Activities"><a href="#Extracurricular-Activities" class="headerlink" title="Extracurricular Activities"></a>Extracurricular Activities</h2><blockquote><p>In fact, an exceptional depth of experience in one or two activities may demonstrate your passion more than minimal participation in five or six clubs.</p></blockquote><blockquote><p>In general, we want to understand the impact you have had at your job, in your family, in a club, in your school, or in the larger community, and we want to learn of the impact that experience has had on you.</p></blockquote><blockquote><p>By focusing on your achievements in context, we evaluate how you have excelled in your school environment and how you have taken advantage of what is available to you in your school and community.</p></blockquote><h1 id="Application-and-Essays"><a href="#Application-and-Essays" class="headerlink" title="Application and Essays"></a>Application and Essays</h1><hr><h2 id="Common-Application-Essat-Prompts"><a href="#Common-Application-Essat-Prompts" class="headerlink" title="Common Application Essat Prompts"></a>Common Application Essat Prompts</h2><blockquote><p>Choose one of the following prompts for your personal essay. The Common App sets a 250-word minimum and a 650-word maximum.</p><ul><li>Some students have a background, identity, interest or talent that is so meaningful they believe their application would be incomplete without it. If this sounds like you, then please share your story.</li><li>The lessons we take from <em>obstacles we encounter</em> can be fundamental to later success. Recount a time when you faced a <em>challenge, setback, or failure</em>. How did it affect you, and what did you learn from the experience?</li><li>Reflect on a time when you <em>questioned</em> or challenged a belief or idea. What prompted your <em>thinking</em>? What <em>was the outcome</em>?</li><li>Describe a problem you’ve solved or a problem you’d like to solve. It can be an intellectual challenge, a research query, an ethical dilemma—anything that is of personal importance, no matter the scale. Explain its significance to you and what steps you took or could be taken to identify a solution.</li><li>Discuss an accomplishment, event, or realization that <em>sparked a period of personal growth and a new understanding of yourself or others</em>.</li><li>Describe a topic, idea, or concept you find so engaging that it makes you lose all track of time. Why does it captivate you? What or who do you turn to when you want to learn more?</li><li>Share an essay on any topic of your choice. It can be one you’ve already written, one that responds to a different prompt, or one of your own design.</li></ul></blockquote><h2 id="Stanford-Short-Essay-Questions"><a href="#Stanford-Short-Essay-Questions" class="headerlink" title="Stanford Short Essay Questions"></a>Stanford Short Essay Questions</h2><blockquote><p>We ask applicants to write a short essay on each of the following three topics. There is a 100-word minimum and a 250-word maximum for each essay.</p><ol><li>The Stanford community is deeply curious and driven to learn in and out of the classroom. Reflect on an idea or experience that makes you genuinely excited about learning.</li><li>Virtually all of Stanford’s undergraduates live on campus. Write a note to your future roommate that reveals something about you or that will help your roommate—and us—get to know you better.</li><li>Tell us about something that is meaningful to you, and why?</li></ol></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Lead&quot;&gt;&lt;a href=&quot;#Lead&quot; class=&quot;headerlink&quot; title=&quot;Lead&quot;&gt;&lt;/a&gt;Lead&lt;/h1&gt;&lt;hr&gt;
+&lt;p&gt;I think it’s time for me to begin my application. These days my mother is trying to find professional counselors who can be helpful in the course of my application. Also, I know the most important thing is myself. I need to be prepared first and make choice finally. So that’s the reason why I am doing this, looking for useful information from several college websites. Here is the first one, that many peers including I admire the most: Stanford University.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;I will mark and reorganize some points mentioned in the intro which I think is useful.&lt;/em&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Dreaming Colleges" scheme="https://lihaojin.cn/categories/Dreaming-Colleges/"/>
+    
+    
+      <category term="college" scheme="https://lihaojin.cn/tags/college/"/>
+    
+      <category term="website" scheme="https://lihaojin.cn/tags/website/"/>
+    
+      <category term="application" scheme="https://lihaojin.cn/tags/application/"/>
+    
+      <category term="explore" scheme="https://lihaojin.cn/tags/explore/"/>
+    
+  </entry>
+  
+</feed>
