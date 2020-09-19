@@ -10731,6 +10731,9 @@ body > .section {
   overflow: visible;
   border-radius: 0;
 }
+.card:hover {
+  box-shadow: 0 6px 15px rgba(0,0,0,0.15), 0 0 1px rgba(0,0,0,0.1);
+}
 .card + .card,
 .card + .column-right-shadow {
   margin-top: 1.5rem;
@@ -10761,7 +10764,7 @@ article.article .article-meta {
 }
 article.article .content {
   word-wrap: break-word;
-  font-size: 1.1rem;
+  font-size: 1.12rem;
 }
 article.article .content h1 {
   font-size: 1.75em;
